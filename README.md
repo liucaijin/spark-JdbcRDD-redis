@@ -16,4 +16,4 @@ scala maven环境
 	<version>1.0</version>
 	</dependency>
 以上两个依赖的jar包需要我们自己收到添加到本地maven仓库（微软一贯这样）,sparkredis是我从https://github.com/RedisLabs/spark-redis
-编译下来的jar包，提供了直接存储RDD数据结构到redis的方法。
+编译下来的jar包，提供了直接存储RDD数据结构到redis的方法。111
